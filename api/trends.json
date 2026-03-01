@@ -1,53 +1,7 @@
 {
-  "generated_at": "2026-02-28T11:50:34.038063+08:00",
-  "total_titles_processed": 296,
+  "generated_at": "2026-03-01T12:17:59.466331+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股收盘：英伟达再度蒸发万亿市值 金融板块全线重挫",
-          "url": "https://www.cls.cn/detail/2297908",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时50分"
-        },
-        {
-          "title": "美股下跌对普通人有何启示",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E4%B8%8B%E8%B7%8C%E5%AF%B9%E6%99%AE%E9%80%9A%E4%BA%BA%E6%9C%89%E4%BD%95%E5%90%AF%E7%A4%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美PPI、伊朗局势、私募危机拖累美股，道指跌1%，10年期美债收益率跌破4%，金银油涨",
-          "url": "https://wallstreetcn.com/articles/3766324",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时50分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
