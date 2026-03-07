@@ -1,50 +1,22 @@
 {
-  "generated_at": "2026-03-06T12:05:40.704127+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-07T11:56:17.502100+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
-          "url": "https://www.cls.cn/detail/2304478",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时05分"
-        },
-        {
-          "title": "油价延续涨势冲击市场 美股三大期指集体走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2304327",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
       "match_count": 1,
       "titles": [
         {
-          "title": "非农前夜，油价飙升引发通胀担忧，芯片股领跌美股，美债四连跌，美元走强",
-          "url": "https://wallstreetcn.com/articles/3766762",
-          "source": "华尔街见闻",
+          "title": "美股收盘：油价暴涨叠加就业数据疲软 三大指数集体收跌",
+          "url": "https://www.cls.cn/detail/2305872",
+          "source": "财联社热门",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时05分"
+          "time_info": "11时56分"
         }
       ]
     }
