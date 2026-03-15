@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T12:06:28.466018+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-03-15T12:29:18.489081+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
@@ -8,26 +8,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "美伊冲突升级，美股倒V、连跌三周！Mag7陷入回调，Meta跌近4%，美元破百",
-          "url": "https://wallstreetcn.com/articles/3767492",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
           "title": "美股收盘：伊朗战争升级加剧通胀担忧 标普500指数连续第三周下跌",
           "url": "https://www.cls.cn/detail/2312848",
           "source": "财联社热门",
           "ranks": [
-            3
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时06分"
+          "time_info": "12时29分"
+        },
+        {
+          "title": "金融博客零对冲：恐慌指数VIX与整体波动性的脱节程度有多严重？VIX指数目前仅为美国“解放日”（2025年4月2日）时水平的三分之一（受美股“七巨头”资本支出预期支撑），而整体市场波动性却与2025年4月崩盘时相当。",
+          "url": "https://flash.jin10.com/detail/20260315102410675800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         }
       ]
     }
