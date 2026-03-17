@@ -1,22 +1,50 @@
 {
-  "generated_at": "2026-03-16T12:37:02.600083+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-03-17T12:13:11.521315+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
-          "title": "市场处于“爆发临界点”！高盛爆料：本周机构对美股的抛售和做空量达到“历史级别”",
-          "url": "https://wallstreetcn.com/articles/3767545",
-          "source": "华尔街见闻",
+          "title": "美股收盘：标普纳指均涨超1% 国际油价回落提振市场情绪",
+          "url": "https://www.cls.cn/detail/2314857",
+          "source": "财联社热门",
           "ranks": [
-            5
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
+          "time_info": "[12时12分 ~ 12时13分]"
+        },
+        {
+          "title": "国际油价大跌推高美股 大摩首席：市场调整已接近尾声",
+          "url": "https://www.cls.cn/detail/2314987",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 12时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
+          "url": "https://wallstreetcn.com/articles/3767567",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 12时13分]"
         }
       ]
     }
