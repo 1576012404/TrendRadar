@@ -1,22 +1,39 @@
 {
-  "generated_at": "2026-03-19T12:18:22.576424+08:00",
+  "generated_at": "2026-03-20T12:09:47.996719+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
+          "url": "https://wallstreetcn.com/articles/3767876",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 1,
       "titles": [
         {
-          "title": "美股收盘：七巨头齐挫三大指数跌超1% 闪迪、美光逆市收新高",
-          "url": "https://www.cls.cn/detail/2317455",
+          "title": "美股收盘：三大指数连跌两天 光通信逆市走强 闪迪续刷新高",
+          "url": "https://www.cls.cn/detail/2318884",
           "source": "财联社热门",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时18分"
+          "time_info": "12时09分"
         }
       ]
     }
