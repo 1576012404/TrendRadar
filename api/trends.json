@@ -1,33 +1,50 @@
 {
-  "generated_at": "2026-03-23T12:24:49.656920+08:00",
+  "generated_at": "2026-03-24T12:13:53.120919+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美债",
+      "keyword_group": "美股",
       "match_count": 2,
       "titles": [
         {
-          "title": "加息真要来了？三年未见之变局：美债“宣战”美联储利率天花板",
-          "url": "https://www.cls.cn/detail/2320841",
+          "title": "美股收盘：美伊相关消息引发市场巨震 三大指数均涨超1%",
+          "url": "https://www.cls.cn/detail/2322200",
           "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时24分"
+          "time_info": "12时13分"
         },
         {
-          "title": "美债规模正一路狂飙",
-          "url": "https://www.toutiao.com/trending/7620270937715248694/",
-          "source": "今日头条",
+          "title": "特朗普暂缓打击伊朗能源设施 美股三大期指均涨近2% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2321966",
+          "source": "财联社热门",
           "ranks": [
-            29
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时24分"
+          "time_info": "12时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美伊“撕扯”全球市场，美股反弹，美债巨震，原油暴跌10%，黄金九连跌",
+          "url": "https://wallstreetcn.com/articles/3768110",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         }
       ]
     }
