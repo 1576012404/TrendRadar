@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T12:42:25.564541+08:00",
+  "generated_at": "2026-03-31T12:32:54.954735+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -8,26 +8,43 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
-          "url": "https://wallstreetcn.com/articles/3768688",
-          "source": "华尔街见闻",
+          "title": "美股收盘：三大指数涨跌不一 投资者权衡中东冲突前景",
+          "url": "https://www.cls.cn/detail/2329769",
+          "source": "财联社热门",
           "ranks": [
-            5
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时42分"
+          "time_info": "12时32分"
         },
         {
-          "title": "中东局势升级，韩股重挫近5%，美股期货续跌跌势，油价破115美元、铝价上涨5%",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
+          "title": "美股后续会怎么走",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%90%8E%E7%BB%AD%E4%BC%9A%E6%80%8E%E4%B9%88%E8%B5%B0",
+          "source": "bilibili 热搜",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时42分"
+          "time_info": "12时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         }
       ]
     }
