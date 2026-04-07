@@ -1,33 +1,44 @@
 {
-  "generated_at": "2026-04-06T12:41:31.660222+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-04-07T12:31:45.277723+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
-          "title": "美股期货转涨，纳斯达克100指数期货日内涨0.7%。",
-          "url": "https://wallstreetcn.com/livenews/3082716",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗拒停战提议，特朗普警告7日晚动手，美股指“闪跌”但收涨，美油再创近四年新高",
+          "url": "https://wallstreetcn.com/articles/3769329",
+          "source": "华尔街见闻",
           "ranks": [
-            17
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时41分"
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 12时31分]"
         },
         {
-          "title": "美股“最强4月”成泡影？三大逆风突袭，反弹之路或功亏一篑",
-          "url": "https://flash.jin10.com/detail/20260406114344911800",
-          "source": "金十数据",
+          "title": "美股开盘小幅上涨，存储板块涨幅居前，希捷科技涨幅扩大至逾7%，创历史新高",
+          "url": "https://wallstreetcn.com/articles/3769300",
+          "source": "华尔街见闻",
           "ranks": [
-            20
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时41分"
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 12时31分]"
+        },
+        {
+          "title": "美股收盘：标普纳指连涨四天 存储概念走强希捷收新高",
+          "url": "https://www.cls.cn/detail/2335967",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 12时31分]"
         }
       ]
     }
