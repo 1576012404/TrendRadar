@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T12:44:06.314220+08:00",
+  "generated_at": "2026-04-11T12:16:40.218094+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -8,15 +8,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "美股收盘：标普纳指连升七天 半导体股持续走强 闪迪涨超9%",
-          "url": "https://www.cls.cn/detail/2339795",
+          "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
+          "url": "https://www.cls.cn/detail/2341126",
           "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时43分 ~ 12时44分]"
+          "appearance_count": 1,
+          "time_info": "12时16分"
         }
       ]
     }
