@@ -1,66 +1,44 @@
 {
-  "generated_at": "2026-04-17T12:46:30.339588+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-18T12:28:29.432689+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 3,
       "titles": [
         {
-          "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
-          "url": "https://wallstreetcn.com/articles/3770109",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时46分"
-        },
-        {
-          "title": "美股收盘：纳指12连涨 锂矿、CPU、光通信牛股带头冲高",
-          "url": "https://www.cls.cn/detail/2346842",
+          "title": "美股收盘：纳指13连涨 追平1992年以来最长连涨纪录",
+          "url": "https://www.cls.cn/detail/2348129",
           "source": "财联社热门",
           "ranks": [
-            2
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时46分"
+          "time_info": "12时28分"
         },
         {
-          "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
-          "url": "https://wallstreetcn.com/articles/3770123",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时46分"
-        },
-        {
-          "title": "这轮美股新高，散户集体踏空！大多头Tom Lee：下一波上涨将由他们主导",
-          "url": "https://wallstreetcn.com/articles/3770147",
+          "title": "CTA史诗级回补美股：单周860亿美元扫货，未来一周再加700亿",
+          "url": "https://wallstreetcn.com/articles/3770223",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时46分"
+          "time_info": "12时28分"
         },
         {
-          "title": "动物精神强势回归，散户无视伊朗冲突涌入美股",
-          "url": "https://flash.jin10.com/detail/20260417120037670800",
-          "source": "金十数据",
+          "title": "美股三大期指集体走高 奈飞盘前大跌近10% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2347815",
+          "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时46分"
+          "time_info": "12时28分"
         }
       ]
     }
