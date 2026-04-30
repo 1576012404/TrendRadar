@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T13:22:58.680000+08:00",
+  "generated_at": "2026-04-30T13:26:22.997187+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -8,15 +8,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
-          "url": "https://wallstreetcn.com/articles/3771095",
+          "title": "美联储34年最大分歧叠加油价飙升，美债重挫，美股横盘，美元走强，黄金三连跌",
+          "url": "https://wallstreetcn.com/articles/3771214",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时22分"
+          "time_info": "13时26分"
         }
       ]
     },
@@ -25,15 +25,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
-          "url": "https://www.cls.cn/detail/2358855",
+          "title": "美股科技“四巨头”同日放榜 “AI烧钱”大战愈演愈烈",
+          "url": "https://www.cls.cn/detail/2360653",
           "source": "财联社热门",
           "ranks": [
-            2
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时22分"
+          "time_info": "13时26分"
         }
       ]
     }
