@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T12:51:07.767823+08:00",
+  "generated_at": "2026-05-09T13:18:19.579403+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -8,26 +8,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
-          "url": "https://wallstreetcn.com/articles/3771708",
+          "title": "非农缓解“滞胀”担忧，美股新高，英特尔和存储芯片股暴涨，Rocket Lab绩后涨34%",
+          "url": "https://wallstreetcn.com/articles/3771825",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 12时51分]"
+          "appearance_count": 1,
+          "time_info": "13时18分"
         },
         {
-          "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
-          "url": "https://www.cls.cn/detail/2365503",
+          "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
+          "url": "https://www.cls.cn/detail/2366633",
           "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 12时51分]"
+          "appearance_count": 1,
+          "time_info": "13时18分"
         }
       ]
     }
