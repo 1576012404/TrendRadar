@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-05-10T13:33:49.748736+08:00",
+  "generated_at": "2026-05-11T13:54:59.564566+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "远超预期！刚刚过去的财报季，美股“强得惊人”",
-          "url": "https://wallstreetcn.com/articles/3771916",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时33分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
