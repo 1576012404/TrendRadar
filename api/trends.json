@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-14T13:43:41.413671+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-15T13:50:39.096814+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
@@ -8,26 +8,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "美股收盘：纳指、标普指数再创新高 中概股与芯片股强势反弹",
-          "url": "https://www.cls.cn/detail/2370687",
+          "title": "美股收盘：纳指、标普500指数再创新高 英伟达市值逼近6万亿美元",
+          "url": "https://www.cls.cn/detail/2371819",
           "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时43分"
+          "time_info": "13时50分"
         },
         {
-          "title": "美股纳指标普指数创新高",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E7%BA%B3%E6%8C%87%E6%A0%87%E6%99%AE%E6%8C%87%E6%95%B0%E5%88%9B%E6%96%B0%E9%AB%98",
-          "source": "bilibili 热搜",
+          "title": "美股光通信妖股POET暴涨超30% 披露光引擎采购大单",
+          "url": "https://www.cls.cn/detail/2371779",
+          "source": "财联社热门",
           "ranks": [
-            3
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时43分"
+          "time_info": "13时50分"
         }
       ]
     }
