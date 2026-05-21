@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T14:02:45.216874+08:00",
+  "generated_at": "2026-05-21T14:05:42.149557+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -8,26 +8,54 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "美股收盘：三大指数集体走低 光通信概念股逆市走强",
-          "url": "https://www.cls.cn/detail/2376079",
+          "title": "【早报】美股科技巨头全线走高；英伟达财报出炉、SpaceX启动IPO",
+          "url": "https://www.cls.cn/detail/2377339",
           "source": "财联社热门",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时02分"
+          "time_info": "14时05分"
         },
         {
-          "title": "美银基金经理调查：美股超配程度接近“卖出信号”，30年期收益率恐升破6%",
-          "url": "https://wallstreetcn.com/articles/3772622",
-          "source": "华尔街见闻",
+          "title": "美股收盘：三大指数均涨超1% 光通信、CPU概念表现强势",
+          "url": "https://www.cls.cn/detail/2377305",
+          "source": "财联社热门",
           "ranks": [
-            6
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时02分"
+          "time_info": "14时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "纳斯达克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "SpaceX递交IPO文件冲刺纳斯达克 更多财务和技术细节曝光",
+          "url": "https://www.cls.cn/detail/2377327",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时05分"
+        },
+        {
+          "title": "标普500、纳斯达克100指数期货收复稍早失地，转为涨跌持平。",
+          "url": "https://wallstreetcn.com/livenews/3107148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时05分"
         }
       ]
     },
@@ -36,15 +64,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "美债上演“投降式大抛售”，高利率阴霾笼罩股市",
-          "url": "https://wallstreetcn.com/articles/3772671",
+          "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
+          "url": "https://wallstreetcn.com/articles/3772708",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时02分"
+          "time_info": "14时05分"
         }
       ]
     }
