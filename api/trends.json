@@ -1,22 +1,44 @@
 {
-  "generated_at": "2026-06-01T14:49:40.690746+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-06-02T14:38:28.816117+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美债",
-      "match_count": 1,
+      "keyword_group": "美股",
+      "match_count": 3,
       "titles": [
         {
-          "title": "华尔街“用脚投票”？美债抛售潮正威胁特朗普的中期选举！",
-          "url": "https://flash.jin10.com/detail/20260601141526307800",
-          "source": "金十数据",
+          "title": "【早报】全线大涨，美股芯片股批量创新高；特朗普：美伊或于“一周内”达成协议",
+          "url": "https://www.cls.cn/detail/2387748",
+          "source": "财联社热门",
           "ranks": [
-            6
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时49分"
+          "time_info": "14时38分"
+        },
+        {
+          "title": "美股收盘：三大指数均创收盘新高 英伟达领涨科技股",
+          "url": "https://www.cls.cn/detail/2387720",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
+          "title": "新华社：美股AI热潮是否面临“泡沫破裂”风险",
+          "url": "https://wallstreetcn.com/livenews/3112827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         }
       ]
     }
