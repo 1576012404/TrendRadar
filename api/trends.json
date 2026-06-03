@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-02T14:38:28.816117+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-06-03T14:47:59.717908+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
@@ -8,37 +8,54 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "【早报】全线大涨，美股芯片股批量创新高；特朗普：美伊或于“一周内”达成协议",
-          "url": "https://www.cls.cn/detail/2387748",
-          "source": "财联社热门",
+          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
+          "url": "https://wallstreetcn.com/articles/3773650",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时38分"
+          "time_info": "14时47分"
         },
         {
-          "title": "美股收盘：三大指数均创收盘新高 英伟达领涨科技股",
-          "url": "https://www.cls.cn/detail/2387720",
+          "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
+          "url": "https://www.cls.cn/detail/2388968",
           "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时38分"
+          "time_info": "14时47分"
         },
         {
-          "title": "新华社：美股AI热潮是否面临“泡沫破裂”风险",
-          "url": "https://wallstreetcn.com/livenews/3112827",
-          "source": "华尔街见闻-快讯",
+          "title": "美股散户热议：该跟黄仁勋还是特朗普",
+          "url": "https://www.toutiao.com/trending/7646982770446569014/",
+          "source": "今日头条",
           "ranks": [
-            25
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时38分"
+          "time_info": "14时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "欧央行最新报告：黄金历史性超越美债，成为全球第一大储备资产",
+          "url": "https://wallstreetcn.com/articles/3773688",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         }
       ]
     }
