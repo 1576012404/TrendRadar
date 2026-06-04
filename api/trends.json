@@ -1,61 +1,55 @@
 {
-  "generated_at": "2026-06-03T14:47:59.717908+08:00",
+  "generated_at": "2026-06-04T14:38:00.369718+08:00",
   "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
-          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
-          "url": "https://wallstreetcn.com/articles/3773650",
+          "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
+          "url": "https://wallstreetcn.com/articles/3773742",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时47分"
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 14时38分]"
         },
         {
-          "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
-          "url": "https://www.cls.cn/detail/2388968",
+          "title": "美股收盘：三大指数从历史高位回落 美伊紧张局势再度升级",
+          "url": "https://www.cls.cn/detail/2390139",
           "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时47分"
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 14时38分]"
         },
         {
-          "title": "美股散户热议：该跟黄仁勋还是特朗普",
-          "url": "https://www.toutiao.com/trending/7646982770446569014/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "欧央行最新报告：黄金历史性超越美债，成为全球第一大储备资产",
-          "url": "https://wallstreetcn.com/articles/3773688",
+          "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
+          "url": "https://wallstreetcn.com/articles/3773769",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时47分"
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 14时38分]"
+        },
+        {
+          "title": "小红书出手，发布“抓紧港美股开通”诱导贴、倒卖外资研报等乱象被集中整治",
+          "url": "https://www.cls.cn/detail/2390543",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 14时38分]"
         }
       ]
     }
