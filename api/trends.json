@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-04T14:38:00.369718+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-05T14:17:21.101511+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
@@ -8,48 +8,48 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
-          "url": "https://wallstreetcn.com/articles/3773742",
-          "source": "华尔街见闻",
+          "title": "【早报】深夜，美股半导体板块剧烈分化；高盛：SpaceX的AI收入将激增100倍",
+          "url": "https://www.cls.cn/detail/2391272",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时37分 ~ 14时38分]"
+          "appearance_count": 1,
+          "time_info": "14时17分"
         },
         {
-          "title": "美股收盘：三大指数从历史高位回落 美伊紧张局势再度升级",
-          "url": "https://www.cls.cn/detail/2390139",
+          "title": "美股收盘：道指飙升近900点创历史新高 博通引发芯片板块抛售拖累纳指",
+          "url": "https://www.cls.cn/detail/2391243",
           "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时37分 ~ 14时38分]"
+          "appearance_count": 1,
+          "time_info": "14时17分"
         },
         {
-          "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
-          "url": "https://wallstreetcn.com/articles/3773769",
+          "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
+          "url": "https://wallstreetcn.com/articles/3773846",
           "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时37分 ~ 14时38分]"
+          "appearance_count": 1,
+          "time_info": "14时17分"
         },
         {
-          "title": "小红书出手，发布“抓紧港美股开通”诱导贴、倒卖外资研报等乱象被集中整治",
-          "url": "https://www.cls.cn/detail/2390543",
-          "source": "财联社热门",
+          "title": "美股芯片巨头博通 AI 半导体收入增长超 200%，为什么股价却暴跌 15%？背后有哪些因素值得关注？",
+          "url": "https://www.zhihu.com/question/2045914979002315116",
+          "source": "知乎",
           "ranks": [
-            10
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时37分 ~ 14时38分]"
+          "appearance_count": 1,
+          "time_info": "14时17分"
         }
       ]
     }
