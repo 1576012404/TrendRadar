@@ -1,33 +1,44 @@
 {
-  "generated_at": "2026-06-15T15:12:50.941305+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-16T15:21:20.912414+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
-          "title": "【早报】美伊达成协议，国际油价大跌，美股期货拉涨",
-          "url": "https://www.cls.cn/detail/2399448",
+          "title": "美伊达成协议，半导体股领涨美股，道指新高，油价重挫5%，黄金三连涨",
+          "url": "https://wallstreetcn.com/articles/3774633",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
+          "title": "【早报】纳指暴涨3%，美股芯片股狂飙；黄金、白银大涨；西班牙爆冷，0比0战平佛得角",
+          "url": "https://www.cls.cn/detail/2400629",
           "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时12分"
+          "time_info": "15时21分"
         },
         {
-          "title": "美股期货涨幅扩大，纳斯达克100指数期货涨2%，标普500指数期货涨1.3%，道指期货涨1%。",
-          "url": "https://wallstreetcn.com/livenews/3119483",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：纳指暴涨近800点 马斯克日赚巴菲特全部身家",
+          "url": "https://www.cls.cn/detail/2400615",
+          "source": "财联社热门",
           "ranks": [
-            24
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时12分"
+          "time_info": "15时21分"
         }
       ]
     },
@@ -36,15 +47,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "美伊达成协议，韩股收涨5%，纳指盘前上涨2%，美债收益率全线下行，油价重挫4%",
-          "url": "https://wallstreetcn.com/articles/3774633",
+          "title": "市场太乐观了？华尔街老将警告：油价、美债和通胀的滞后冲击才刚开始",
+          "url": "https://wallstreetcn.com/articles/3774702",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时12分"
+          "time_info": "15时21分"
         }
       ]
     }
