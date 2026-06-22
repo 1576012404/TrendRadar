@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-06-21T14:46:36.094624+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-22T15:15:32.409899+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
-          "url": "https://www.cls.cn/detail/2404523",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时46分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
