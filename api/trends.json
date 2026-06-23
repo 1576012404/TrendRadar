@@ -1,7 +1,53 @@
 {
-  "generated_at": "2026-06-22T15:15:32.409899+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-23T14:02:35.680937+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股收盘：三大股指涨跌不一 SpaceX暴跌16% 美光续创历史新高",
+          "url": "https://www.cls.cn/detail/2406186",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "美股即将大幅回调20%！资深策略师“捕捉”到六大预警信号",
+          "url": "https://www.cls.cn/detail/2406236",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
+          "url": "https://wallstreetcn.com/articles/3775156",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
