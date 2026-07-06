@@ -1,44 +1,33 @@
 {
-  "generated_at": "2026-07-05T13:59:13.009704+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-06T14:22:49.285241+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
-          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
-          "url": "https://wallstreetcn.com/articles/3776200",
+          "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
+          "url": "https://wallstreetcn.com/articles/3776130",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 13时59分]"
+          "appearance_count": 1,
+          "time_info": "14时22分"
         },
         {
-          "title": "精准预测“美股动量股”暴跌后，高盛看到“逢低买入”的迹象",
-          "url": "https://wallstreetcn.com/articles/3776204",
+          "title": "美股史上最大规模海外公司首次募资！“存储巨头”SK海力士本周五登陆纳斯达克",
+          "url": "https://wallstreetcn.com/articles/3776235",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 13时59分]"
-        },
-        {
-          "title": "如何看待字节员工靠炒美股财富自由后离职，称投资比大厂升职更容易实现财务自由？",
-          "url": "https://www.zhihu.com/question/2055415968537618014",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 13时59分]"
+          "appearance_count": 1,
+          "time_info": "14时22分"
         }
       ]
     }
