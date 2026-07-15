@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T12:46:47.531520+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-07-15T12:46:11.418346+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
@@ -8,46 +8,46 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
-          "url": "https://wallstreetcn.com/articles/3776754",
+          "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
+          "url": "https://wallstreetcn.com/articles/3776859",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时46分"
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 12时46分]"
         },
         {
-          "title": "【早报】美伊冲突升级；美股存储股再度重挫；国际油价暴涨9%，金价大跌",
-          "url": "https://www.cls.cn/detail/2425210",
+          "title": "【早报】美股存储板块反弹；美军空袭伊朗；原油、金银集体上涨；长鑫科技，发行价定了",
+          "url": "https://www.cls.cn/detail/2426576",
           "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时46分"
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 12时46分]"
         },
         {
-          "title": "美股收盘：美伊局势升级打压风险偏好 芯片股重挫纳指跌逾1.5%",
-          "url": "https://www.cls.cn/detail/2425183",
+          "title": "美股收盘：CPI降温叠加银行财报开门红 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2426541",
           "source": "财联社热门",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时46分"
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 12时46分]"
         },
         {
-          "title": "高盛、美银齐发卖出警报，对冲基金却重返科技股，美股仓位信号现分歧",
-          "url": "https://wallstreetcn.com/articles/3776816",
-          "source": "华尔街见闻",
+          "title": "科技巨头掀起融资狂潮！华尔街开始担忧：美股牛市会否就此结束？",
+          "url": "https://flash.jin10.com/detail/20260715114338187800",
+          "source": "金十数据",
           "ranks": [
-            7
+            28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "12时46分"
         }
