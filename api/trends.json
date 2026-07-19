@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T12:44:07.056475+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-19T13:17:06.260896+08:00",
+  "total_titles_processed": 325,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,23 @@
           "url": "https://www.cls.cn/detail/2430055",
           "source": "财联社热门",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时43分 ~ 12时44分]"
+          "time_info": "[13时16分 ~ 13时17分]"
         },
         {
-          "title": "美股三大指数全线下挫",
-          "url": "https://www.douyin.com/hot/2575548",
-          "source": "抖音",
+          "title": "Kimi K3把美股半导体干崩了",
+          "url": "https://www.baidu.com/s?wd=Kimi+K3%E6%8A%8A%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B9%B2%E5%B4%A9%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            8
+            28,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时43分 ~ 12时44分]"
+          "time_info": "[13时16分 ~ 13时17分]"
         }
       ]
     }
