@@ -1,55 +1,50 @@
 {
-  "generated_at": "2026-07-28T12:59:26.680410+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-07-30T12:54:06.247544+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
-          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
-          "url": "https://wallstreetcn.com/articles/3778058",
+          "title": "美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间",
+          "url": "https://www.cls.cn/detail/2440737",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 12时54分]"
+        },
+        {
+          "title": "美股三大指数集体收跌",
+          "url": "https://www.douyin.com/hot/2590070",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 12时54分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中东局势突变叠加美联储鹰派分歧，油价飙8%，纳指六连跌，30年美债收益率创2007年最高",
+          "url": "https://wallstreetcn.com/articles/3778176",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "美股收盘：阿斯麦、英伟达领衔“芯片风暴” 苹果重返全球市值第一",
-          "url": "https://www.cls.cn/detail/2438385",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "一文读懂：美股“芯片风暴”究竟是如何发生的？",
-          "url": "https://www.cls.cn/detail/2438605",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "7月28日投资避雷针：美股费城半导体指数创5月20日以来收盘新低 英伟达跌约5%",
-          "url": "https://www.cls.cn/detail/2438430",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 12时54分]"
         }
       ]
     }
