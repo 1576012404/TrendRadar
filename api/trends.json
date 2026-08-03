@@ -1,44 +1,39 @@
 {
-  "generated_at": "2026-08-02T13:23:35.567221+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-08-03T13:39:24.964290+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 3,
+      "keyword_group": "美债",
+      "match_count": 1,
       "titles": [
         {
-          "title": "美股收盘：超级权重托举指数V型反转 中国金龙指数五连阳",
-          "url": "https://www.cls.cn/detail/2443155",
-          "source": "财联社热门",
+          "title": "救日元也要护美债，贝森特推动美联储流动性工具扩容",
+          "url": "https://flash.jin10.com/detail/20260803122507266800",
+          "source": "金十数据",
           "ranks": [
-            3
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时23分"
-        },
+          "time_info": "13时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "纳斯达克",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "高盛：7月砸穿拥挤交易，美股牛市没断但更难做了",
-          "url": "https://wallstreetcn.com/articles/3778494",
-          "source": "华尔街见闻",
+          "title": "纳斯达克100指数期货涨幅扩大至1%，受美伊谈判乐观情绪推动。",
+          "url": "https://wallstreetcn.com/livenews/3143891",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
-          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
-          "url": "https://www.cls.cn/detail/2443270",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时23分"
+          "time_info": "13时39分"
         }
       ]
     }
