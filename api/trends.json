@@ -1,61 +1,33 @@
 {
-  "generated_at": "2026-08-05T13:01:29.474102+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-06T13:11:41.255882+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
-          "title": "【早报】美股半导体、存储、光通信，集体爆发；油价大跌、黄金走强；SpaceX、AMD财报出炉；大基金三期出手！入股正芯半导体",
-          "url": "https://www.cls.cn/detail/2445802",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时00分 ~ 13时01分]"
-        },
-        {
-          "title": "美股收盘：标普500再创历史新高 光通信、存储涨幅居前",
-          "url": "https://www.cls.cn/detail/2445760",
+          "title": "美股收盘：道指再创历史新高 SpaceX与AMD拖累纳指走低",
+          "url": "https://www.cls.cn/detail/2446816",
           "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时00分 ~ 13时01分]"
+          "appearance_count": 1,
+          "time_info": "13时11分"
         },
         {
-          "title": "美股存储板块爆发！SK海力士ADR大涨逾8% 投行集体看涨",
-          "url": "https://www.cls.cn/detail/2445853",
+          "title": "码农摇身一变成FDE？美股龙头引领AI落地新模式 机构：计算机板块或迎来重估",
+          "url": "https://www.cls.cn/detail/2446947",
           "source": "财联社热门",
           "ranks": [
-            4
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时00分 ~ 13时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何看待 2026 年 8 月美债正式突破 40 万亿美元大关？压垮美债的最后一根稻草会是什么？",
-          "url": "https://www.zhihu.com/question/2067002987545884316",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时00分 ~ 13时01分]"
+          "appearance_count": 1,
+          "time_info": "13时11分"
         }
       ]
     }
