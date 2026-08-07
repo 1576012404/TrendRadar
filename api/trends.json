@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T13:11:41.255882+08:00",
+  "generated_at": "2026-08-07T12:22:47.134259+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -8,26 +8,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "美股收盘：道指再创历史新高 SpaceX与AMD拖累纳指走低",
-          "url": "https://www.cls.cn/detail/2446816",
+          "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
+          "url": "https://wallstreetcn.com/articles/3778821",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
+          "url": "https://www.cls.cn/detail/2447905",
           "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "码农摇身一变成FDE？美股龙头引领AI落地新模式 机构：计算机板块或迎来重估",
-          "url": "https://www.cls.cn/detail/2446947",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
+          "time_info": "12时22分"
         }
       ]
     }
