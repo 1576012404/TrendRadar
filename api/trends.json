@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-10-17T14:27:26.577340+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-10-18T14:52:39.006803+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，VIX一度升破22，布油涨破110",
-          "url": "https://wallstreetcn.com/articles/3783778",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时27分"
-        },
         {
           "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
           "url": "https://www.cls.cn/detail/2507382",
@@ -27,7 +16,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时27分"
+          "time_info": "14时52分"
         },
         {
           "title": "美股收盘：科技重挫纳指跌超2% 红利、能源巨头再创新高",
@@ -38,18 +27,24 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时27分"
-        },
+          "time_info": "14时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "沃什IMF年会上未释放加息信号 美股三大期指窄幅震荡 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2507212",
+          "title": "马斯克反思白宫往事 称美债问题只能靠AI和机器人解决",
+          "url": "https://www.cls.cn/detail/2507535",
           "source": "财联社热门",
           "ranks": [
-            11
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时27分"
+          "time_info": "14时52分"
         }
       ]
     }
