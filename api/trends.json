@@ -1,22 +1,33 @@
 {
-  "generated_at": "2026-10-19T15:12:24.161128+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-10-20T14:59:18.329081+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
-          "title": "10月19日投资避雷针：上周五美股三大指数集体收跌 费城半导体指数连跌8日",
-          "url": "https://www.cls.cn/detail/2507819",
+          "title": "【早报】美股存储、半导体股，全线爆发；首批18只主动ETF获批；10余家A股公司宣布回购",
+          "url": "https://www.cls.cn/detail/2509124",
           "source": "财联社热门",
           "ranks": [
-            13
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时12分"
+          "time_info": "14时59分"
+        },
+        {
+          "title": "美股收盘：AI概念回暖纳指涨超1% 存储、芯片板块明显反弹",
+          "url": "https://www.cls.cn/detail/2509104",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时59分"
         }
       ]
     }
