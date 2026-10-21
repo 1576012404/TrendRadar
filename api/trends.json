@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T14:59:18.329081+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-10-21T14:53:06.998279+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
@@ -8,26 +8,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "【早报】美股存储、半导体股，全线爆发；首批18只主动ETF获批；10余家A股公司宣布回购",
-          "url": "https://www.cls.cn/detail/2509124",
+          "title": "美股收盘：三大指数涨跌不一 SpaceX绩后股价走强",
+          "url": "https://www.cls.cn/detail/2510428",
           "source": "财联社热门",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时59分"
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 14时53分]"
         },
         {
-          "title": "美股收盘：AI概念回暖纳指涨超1% 存储、芯片板块明显反弹",
-          "url": "https://www.cls.cn/detail/2509104",
-          "source": "财联社热门",
+          "title": "美股见顶最直接的信号：韩国芯片出口？",
+          "url": "https://wallstreetcn.com/articles/3784011",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时59分"
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 14时53分]"
         }
       ]
     }
