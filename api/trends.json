@@ -1,111 +1,39 @@
 {
-  "generated_at": "2026-10-23T14:49:42.211288+08:00",
+  "generated_at": "2026-10-24T14:46:07.191066+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
-          "title": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨",
-          "url": "https://wallstreetcn.com/articles/3784189",
+          "title": "油价飙升引发通胀忧虑，美股美债双双承压，苹果市值一度超英伟达，黄金周跌4%",
+          "url": "https://wallstreetcn.com/articles/3784279",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时49分"
-        },
-        {
-          "title": "Meta成“最后一根稻草”，纳指“终于”崩了，美债应声大涨",
-          "url": "https://wallstreetcn.com/articles/3784246",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时49分"
-        },
-        {
-          "title": "AI崩了，法债爆了，急需美债“避险”！10年期美债收益率创“硅谷银行危机”来最大跌幅",
-          "url": "https://wallstreetcn.com/articles/3784249",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时49分"
-        },
-        {
-          "title": "黑天鹅序幕？上一次美债收益率这样跌 正是硅谷银行“爆雷日”",
-          "url": "https://www.cls.cn/detail/2512977",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时49分"
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 14时46分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "【早报】美股半导体、存储、芯片股，全线跳水；布油飙升4%、国际金银遭重挫；5家基金自购旗下主动ETF",
-          "url": "https://www.cls.cn/detail/2512907",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时49分"
-        },
-        {
-          "title": "美股收盘：芯片、存储、光概念大幅回落 纳指重挫2.6％",
-          "url": "https://www.cls.cn/detail/2512879",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时49分"
-        },
-        {
-          "title": "报道：Calpers上半年减码美股七巨头 转进私募股权",
-          "url": "https://wallstreetcn.com/livenews/3184235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "纳斯达克",
       "match_count": 1,
       "titles": [
         {
-          "title": "德意志银行：将黑石集团(BX.N)目标价从149美元下调至138美元。将纳斯达克(NDAQ.O)目标价从116美元上调至118美元。",
-          "url": "https://flash.jin10.com/detail/20261023141836383800",
-          "source": "金十数据",
+          "title": "美股收盘：油价暴涨压制市场情绪 三大指数集体收低",
+          "url": "https://www.cls.cn/detail/2514112",
+          "source": "财联社热门",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时49分"
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 14时46分]"
         }
       ]
     }
