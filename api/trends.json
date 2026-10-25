@@ -1,25 +1,8 @@
 {
-  "generated_at": "2026-10-24T14:46:07.191066+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-10-25T15:10:36.762147+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "油价飙升引发通胀忧虑，美股美债双双承压，苹果市值一度超英伟达，黄金周跌4%",
-          "url": "https://wallstreetcn.com/articles/3784279",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时45分 ~ 14时46分]"
-        }
-      ]
-    },
     {
       "keyword_group": "美股",
       "match_count": 1,
@@ -29,11 +12,11 @@
           "url": "https://www.cls.cn/detail/2514112",
           "source": "财联社热门",
           "ranks": [
-            5
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时45分 ~ 14时46分]"
+          "appearance_count": 1,
+          "time_info": "15时10分"
         }
       ]
     }
