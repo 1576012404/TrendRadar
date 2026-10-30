@@ -1,55 +1,66 @@
 {
-  "generated_at": "2026-10-29T15:55:00.197764+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-10-30T15:59:05.988441+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
-          "title": "美联储按兵不动，美股指三连涨，甲骨文大涨11%，盘后谷歌大跌10%、微软走强",
-          "url": "https://wallstreetcn.com/articles/3784634",
+          "title": "谷歌创纪录暴跌，美股指终结三连涨，云服务股普跌，盘后英特尔狂泻20%、亚马逊重挫",
+          "url": "https://wallstreetcn.com/articles/3784748",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时54分 ~ 15时55分]"
+          "time_info": "[15时58分 ~ 15时59分]"
         },
         {
-          "title": "【早报】美联储按兵不动，沃什宣布：减少议息频次；美股存储芯片板块，全线爆发；谷歌业绩不及预期，盘后大跌",
-          "url": "https://www.cls.cn/detail/2518583",
+          "title": "美股收盘：三大指数集体收跌 纳指跌超1% 谷歌创上市以来最大单日跌幅",
+          "url": "https://www.cls.cn/detail/2519945",
           "source": "财联社热门",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时54分 ~ 15时55分]"
+          "time_info": "[15时58分 ~ 15时59分]"
         },
         {
-          "title": "美股最可靠的警报灯亮了！历史两次闪烁后，都迎来大熊市",
-          "url": "https://wallstreetcn.com/articles/3784679",
-          "source": "华尔街见闻",
+          "title": "谷歌美股开盘大跌超 13%，创历史最大单日跌幅，总市值蒸发 5000 亿美元，为啥会这样？还会持续下跌吗？",
+          "url": "https://www.zhihu.com/question/2099258545564643597",
+          "source": "知乎",
           "ranks": [
-            5
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时54分 ~ 15时55分]"
+          "time_info": "[15时58分 ~ 15时59分]"
         },
         {
-          "title": "美股收盘：三大指数小幅收涨 甲骨文现金流指引提振AI云计算股",
-          "url": "https://www.cls.cn/detail/2518554",
+          "title": "一图看懂：AI算力竞赛出现变奏？美股四巨头资本投入节奏分化",
+          "url": "https://www.cls.cn/detail/2520285",
           "source": "财联社热门",
           "ranks": [
-            5
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时54分 ~ 15时55分]"
+          "time_info": "[15时58分 ~ 15时59分]"
+        },
+        {
+          "title": "科技巨头一夜蒸发3万亿美股要崩了吗",
+          "url": "https://www.toutiao.com/trending/7702324412527152681/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时58分 ~ 15时59分]"
         }
       ]
     }
