@@ -1,33 +1,44 @@
 {
-  "generated_at": "2026-11-02T16:43:31.832285+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-11-03T16:55:12.307488+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
-          "title": "三重考验即将来袭：美股本周直面中期选举、非农和财报冲击 能否绝处逢生？",
-          "url": "https://www.cls.cn/detail/2522003",
-          "source": "财联社热门",
+          "title": "芯片股拖累美股指，纳指100跌入技术调整，存储、光通信下挫，油价大跌提振黄金大反弹",
+          "url": "https://wallstreetcn.com/articles/3784983",
+          "source": "华尔街见闻",
           "ranks": [
-            12
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时43分"
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 16时55分]"
         },
         {
-          "title": "美股AI暴跌,万亿市值蒸发",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368651&amp;topic_name=%E7%BE%8E%E8%82%A1AI%E6%9A%B4%E8%B7%8C%2C%E4%B8%87%E4%BA%BF%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
-          "source": "贴吧",
+          "title": "创纪录抄底资金遭“闷杀” 美股半导体杠杆ETF已成多头“绞肉机”？",
+          "url": "https://www.cls.cn/detail/2523658",
+          "source": "财联社热门",
           "ranks": [
-            26
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时43分"
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 16时55分]"
+        },
+        {
+          "title": "创纪录抄底美股资金遭“闷杀”",
+          "url": "https://www.baidu.com/s?wd=%E5%88%9B%E7%BA%AA%E5%BD%95%E6%8A%84%E5%BA%95%E7%BE%8E%E8%82%A1%E8%B5%84%E9%87%91%E9%81%AD%E2%80%9C%E9%97%B7%E6%9D%80%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 16时55分]"
         }
       ]
     }
