@@ -1,77 +1,55 @@
 {
-  "generated_at": "2026-11-07T16:07:08.418317+08:00",
+  "generated_at": "2026-11-08T16:26:42.599326+08:00",
   "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 4,
       "titles": [
         {
-          "title": "强劲非农提振加息预期，美元大涨，美股分化道指收跌，芯片股技术性反弹，AMD涨11%",
-          "url": "https://wallstreetcn.com/articles/3785315",
-          "source": "华尔街见闻",
+          "title": "九年来首次！美股科技股迈入“比大盘便宜”时代",
+          "url": "https://www.cls.cn/detail/2528180",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时06分 ~ 16时07分]"
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "【早报】美股芯片股反弹，AMD涨超11%，中概股集体走强；多家券商启动第三批互换便利首批股票买入",
           "url": "https://www.cls.cn/detail/2527975",
           "source": "财联社热门",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时06分 ~ 16时07分]"
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "美股收盘：AI概念股止跌反弹 纳指收涨1% 仍难逃周线四连跌",
           "url": "https://www.cls.cn/detail/2527967",
           "source": "财联社热门",
           "ranks": [
-            5
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时06分 ~ 16时07分]"
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "美国女议员戳破美股AI泡沫",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369406&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E8%AE%AE%E5%91%98%E6%88%B3%E7%A0%B4%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
           "source": "贴吧",
           "ranks": [
-            5
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时06分 ~ 16时07分]"
-        },
-        {
-          "title": "中选后华尔街集体看多美股，结果一天就被打脸！",
-          "url": "https://wallstreetcn.com/articles/3785388",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时06分 ~ 16时07分]"
-        },
-        {
-          "title": "一个伊朗女人搞崩了美股",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E4%BC%8A%E6%9C%97%E5%A5%B3%E4%BA%BA%E6%90%9E%E5%B4%A9%E4%BA%86%E7%BE%8E%E8%82%A1",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时06分 ~ 16时07分]"
+          "appearance_count": 1,
+          "time_info": "16时26分"
         }
       ]
     }
