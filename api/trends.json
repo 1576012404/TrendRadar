@@ -1,39 +1,33 @@
 {
-  "generated_at": "2026-11-11T16:43:50.839696+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-11-12T17:04:17.949803+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美债",
-      "match_count": 1,
+      "keyword_group": "美股",
+      "match_count": 2,
       "titles": [
         {
-          "title": "美CPI超预期叠加美联储放鹰，美债重挫，美股指承压，英伟达两日跌10%，黄金大跌",
-          "url": "https://wallstreetcn.com/articles/3785613",
+          "title": "AI交易重燃，美股指反弹，CoreWeave飙升24%，美元续涨，黄金跌破4000",
+          "url": "https://wallstreetcn.com/articles/3785732",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
+          "time_info": "17时04分"
+        },
         {
-          "title": "美联储鲍曼研判：通胀正扩大年内或再加息，美股恐因AI大幅回调！",
-          "url": "https://www.cls.cn/detail/2530892",
-          "source": "财联社热门",
+          "title": "英伟达美股盘后跳水，媒体报道称：黄仁勋曾与英伟达高管有过婚外情",
+          "url": "https://wallstreetcn.com/articles/3785762",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时43分"
+          "time_info": "17时04分"
         }
       ]
     }
